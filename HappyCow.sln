@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador HappyCow", "Instalador HappyCow\Instalador HappyCow.vdproj", "{F230CE6B-B90F-4E3A-8604-A275D56F05EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F230CE6B-B90F-4E3A-8604-A275D56F05EB}.Debug|Default.ActiveCfg = Debug
+		{F230CE6B-B90F-4E3A-8604-A275D56F05EB}.Debug|Default.Build.0 = Debug
+		{F230CE6B-B90F-4E3A-8604-A275D56F05EB}.Release|Default.ActiveCfg = Release
+		{F230CE6B-B90F-4E3A-8604-A275D56F05EB}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
